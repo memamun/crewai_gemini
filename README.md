@@ -65,10 +65,6 @@ python crew.py
 
 The project outputs a comprehensive analysis report and a blog post on AI tools, which are printed to the console.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
